@@ -44,8 +44,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Proyecto_ADS2</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::23:18:27</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:18:27</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.1.2021::23:47:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:47:7</_modifiedTime>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<size type="a">16</size>
@@ -120,6 +120,7 @@
 			<AggregatesList type="e">
 				<value>GUID 3ad7e932-8f52-40a4-9fdb-c6d4b0c337d9</value>
 				<value>GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</value>
+				<value>GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</value>
 				<value>GUID 2f538c30-0033-4178-aa9b-a78f84f0a480</value>
 				<value>GUID de1e1fd0-6383-425e-b5a7-3e85602c341f</value>
 			</AggregatesList>
@@ -132,6 +133,12 @@
 			<fileName type="a">UMLPerspectives</fileName>
 			<_persistAs type="a">$OMROOT\Settings\UMLPerspectives</_persistAs>
 			<_id type="a">GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</IProfile>
+		<IProfile type="e">
+			<fileName type="a">BusinessModeling</fileName>
+			<_persistAs type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile</_persistAs>
+			<_id type="a">GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</_id>
 			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
 		</IProfile>
 		<IStructureDiagram type="e">
