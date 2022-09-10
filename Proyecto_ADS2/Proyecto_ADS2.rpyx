@@ -44,8 +44,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Proyecto_ADS2</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::23:47:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:47:7</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.1.2021::23:52:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:52:52</_modifiedTime>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<size type="a">16</size>
@@ -121,6 +121,8 @@
 				<value>GUID 3ad7e932-8f52-40a4-9fdb-c6d4b0c337d9</value>
 				<value>GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</value>
 				<value>GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</value>
+				<value>GUID f883ccaf-9b1e-452f-809a-40b7ddb88a81</value>
+				<value>GUID 7e97bde9-a060-4e4f-bb69-e3b345acb7db</value>
 				<value>GUID 2f538c30-0033-4178-aa9b-a78f84f0a480</value>
 				<value>GUID de1e1fd0-6383-425e-b5a7-3e85602c341f</value>
 			</AggregatesList>
@@ -139,6 +141,18 @@
 			<fileName type="a">BusinessModeling</fileName>
 			<_persistAs type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile</_persistAs>
 			<_id type="a">GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</IProfile>
+		<IProfile type="e">
+			<fileName type="a">AnalysisModel</fileName>
+			<_persistAs type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\AnalysisProfile</_persistAs>
+			<_id type="a">GUID f883ccaf-9b1e-452f-809a-40b7ddb88a81</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</IProfile>
+		<IProfile type="e">
+			<fileName type="a">DesignModel</fileName>
+			<_persistAs type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\DesignProfile</_persistAs>
+			<_id type="a">GUID 7e97bde9-a060-4e4f-bb69-e3b345acb7db</_id>
 			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
 		</IProfile>
 		<IStructureDiagram type="e">
