@@ -27,18 +27,18 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">26</m_nLeft>
-								<m_nTop type="a">26</m_nTop>
-								<m_nRight type="a">575</m_nRight>
-								<m_nBottom type="a">326</m_nBottom>
+								<m_nLeft type="a">52</m_nLeft>
+								<m_nTop type="a">52</m_nTop>
+								<m_nRight type="a">939</m_nRight>
+								<m_nBottom type="a">526</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IStructureDiagram</_hm2Class>
-								<_hname type="a">Structure1</_hname>
-								<_hid type="a">GUID 2f538c30-0033-4178-aa9b-a78f84f0a480</_hid>
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hname type="a">Diagrama de Estructura de Proyecto</_hname>
+								<_hid type="a">GUID bd175526-abf2-4924-a21a-df876aa70de8</_hid>
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
