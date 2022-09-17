@@ -44,8 +44,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Proyecto_ADS2</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::1:32:47</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::1:32:47</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::1:41:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:41:1</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -174,7 +174,7 @@
 			<_id type="a">GUID d0e4586b-7e5e-4bbe-b96a-7c518650fe44</_id>
 		</ISubsystem>
 		<ISubsystem type="e">
-			<fileName type="a">PaqueteRequerimientos</fileName>
+			<fileName type="a">PaqueteRequesitos</fileName>
 			<_id type="a">GUID 8801dfab-4529-4e7b-badb-54b9e39b18a3</_id>
 		</ISubsystem>
 		<IStructureDiagram type="e">
