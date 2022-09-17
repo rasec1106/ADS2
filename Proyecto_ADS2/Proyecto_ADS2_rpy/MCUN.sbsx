@@ -17,7 +17,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCaseModel</_hname>
 							<_hid type="a">GUID fa66a543-8311-428e-809e-b18f8f5609a1</_hid>
@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::0:14:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::1:55:29</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -35,11 +35,11 @@
 			</_theMainDiagram>
 			<_modifiedTime type="a">3.2.2021::0:21:54</_modifiedTime>
 			<_lastID type="a">10</_lastID>
-			<weakCGTime type="a">3.2.2021::0:14:33</weakCGTime>
+			<weakCGTime type="a">3.2.2021::1:55:29</weakCGTime>
 			<strongCGTime type="a">3.1.2021::23:59:52</strongCGTime>
 			<_defaultComposite type="s">GUID 98d0595a-a282-4f6e-88c2-e33ae678eb91</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID aaa5d3c5-7932-42ef-a36a-9ecd39533f44</value>
 				<value>GUID 48243ffe-4cad-4a0d-b74c-dc0d01fed1ff</value>
@@ -243,8 +243,8 @@
 			</_properties>
 			<_name type="a">Diagrama General de Casos de Uso de Negocio</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:14</_modifiedTime>
-			<_lastModifiedTime type="a">3.2.2021::0:11:14</_lastModifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:55:46</_modifiedTime>
+			<_lastModifiedTime type="a">3.2.2021::1:55:46</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -584,7 +584,7 @@
 			<m_pParent type="s">GUID 98d6022c-aa3e-41a1-a3f1-00c64053b9a6</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Postulante</m_str>
+					<m_str type="a">AN2_Postulante</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -640,7 +640,7 @@
 			<m_pParent type="s">GUID 98d6022c-aa3e-41a1-a3f1-00c64053b9a6</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Emprendedora</m_str>
+					<m_str type="a">AN1_Emprendedora</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -696,7 +696,7 @@
 			<m_pParent type="s">GUID 98d6022c-aa3e-41a1-a3f1-00c64053b9a6</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Supervisora de Ventas</m_str>
+					<m_str type="a">AN3_Supervisora de Ventas</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2597,7 +2597,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -2620,7 +2620,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -2658,7 +2658,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -2696,7 +2696,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -2734,7 +2734,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessGoal</_hname>
 							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
@@ -2768,7 +2768,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCase</_hname>
 							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
@@ -2776,8 +2776,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:24:53</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::0:24:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:55:36</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">3.2.2021::0:24:53</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -2786,11 +2786,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -2827,9 +2822,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID d52b5463-ff36-4455-bb57-f16ba417b490</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsPostulante</_name>
+			<_name type="a">itsAN2_Postulante</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:35</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:55:36</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -2856,7 +2851,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCase</_hname>
 							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
@@ -2864,8 +2859,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:25:11</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::0:25:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:55:29</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">3.2.2021::0:25:11</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -2874,11 +2869,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -2915,9 +2905,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID b7f52bd4-dbb0-4144-9938-8f546b1deec0</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsEmprendedora</_name>
+			<_name type="a">itsAN1_Emprendedora</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:48</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:55:29</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -2944,7 +2934,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessUseCase</_hname>
 							<_hid type="a">GUID 94d17f20-58aa-417d-8af2-bd20860d0a77</_hid>
@@ -2952,8 +2942,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:25:24</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::0:25:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:55:46</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">3.2.2021::0:25:24</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -2962,11 +2952,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -3027,9 +3012,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 7e281023-1081-4511-8c9d-175eb4fd4e78</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsSupervisora de Ventas</_name>
+			<_name type="a">itsAN3_Supervisora de Ventas</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:52</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:55:46</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -3049,14 +3034,14 @@
 		<IActor type="e">
 			<_id type="a">GUID 0793968e-7d5e-40dd-a41d-b58d5a078305</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Postulante</_name>
+			<_name type="a">AN2_Postulante</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -3064,10 +3049,10 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::0:10:56</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:10:56</_modifiedTime>
-			<weakCGTime type="a">3.2.2021::0:10:56</weakCGTime>
-			<strongCGTime type="a">3.2.2021::0:6:45</strongCGTime>
+			<_modifiedTimeWeak type="a">3.2.2021::1:55:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:55:36</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::1:55:36</weakCGTime>
+			<strongCGTime type="a">3.2.2021::1:55:36</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3082,7 +3067,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAfiliacion de Emprendedoras</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:35</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:55:36</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -3102,14 +3087,14 @@
 		<IActor type="e">
 			<_id type="a">GUID 61ba3a8d-26fb-4548-b669-a7716a8e2fd9</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Emprendedora</_name>
+			<_name type="a">AN1_Emprendedora</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -3117,10 +3102,10 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::0:11:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:7</_modifiedTime>
-			<weakCGTime type="a">3.2.2021::0:11:7</weakCGTime>
-			<strongCGTime type="a">3.2.2021::0:6:50</strongCGTime>
+			<_modifiedTimeWeak type="a">3.2.2021::1:55:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:55:29</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::1:55:29</weakCGTime>
+			<strongCGTime type="a">3.2.2021::1:55:29</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3135,7 +3120,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsVenta de Productos</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:48</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:55:29</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -3155,14 +3140,14 @@
 		<IActor type="e">
 			<_id type="a">GUID e8d22d9b-76f5-4320-8f36-4868d3a18bd0</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Supervisora de Ventas</_name>
+			<_name type="a">AN3_Supervisora de Ventas</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">\\Vboxsvr\ads2-2022\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessActor</_hname>
 							<_hid type="a">GUID 18637f3a-fddb-4ef2-bafa-205ae7d1c2fd</_hid>
@@ -3170,10 +3155,10 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.2.2021::0:11:14</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:14</_modifiedTime>
-			<weakCGTime type="a">3.2.2021::0:11:14</weakCGTime>
-			<strongCGTime type="a">3.2.2021::0:6:55</strongCGTime>
+			<_modifiedTimeWeak type="a">3.2.2021::1:55:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:55:46</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::1:55:46</weakCGTime>
+			<strongCGTime type="a">3.2.2021::1:55:46</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3188,7 +3173,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAtencion de Pedido</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::0:11:52</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:55:46</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">

@@ -11,10 +11,10 @@
 			<_id type="a">GUID 8801dfab-4529-4e7b-badb-54b9e39b18a3</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PaqueteRequesitos</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::1:41:1</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::1:41:22</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::1:46:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:46:56</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">3.2.2021::1:41:1</weakCGTime>
+			<weakCGTime type="a">3.2.2021::1:46:56</weakCGTime>
 			<strongCGTime type="a">3.2.2021::1:41:1</strongCGTime>
 			<_defaultComposite type="s">GUID 7a1431f6-6a9c-4b44-96b3-7ea5dc4995fc</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -156,8 +156,8 @@
 			</_properties>
 			<_name type="a">Diagrama de Requisitos vs Casos de Uso</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::1:42:16</_modifiedTime>
-			<_lastModifiedTime type="a">3.2.2021::1:42:16</_lastModifiedTime>
+			<_modifiedTime type="a">3.2.2021::1:48:21</_modifiedTime>
+			<_lastModifiedTime type="a">3.2.2021::1:48:21</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -282,6 +282,44 @@
 		</CGIClass>
 		<CGIAnnotation type="e">
 			<_id type="a">GUID 5f686172-e67f-4dd4-9387-d108d47d5c67</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">EnableImageView</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">176</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -292,6 +330,7 @@
 			<m_pParent type="s">GUID 8ecb0c42-b4b6-4f3a-bda1-1b5f11bebea3</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">Pagar Pedido</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -307,7 +346,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.0774908 0 0 0.104396 190 39.6868 </m_transform>
+			<m_transform type="a">0.149683 0 0 0.117888 331.744 39.0031 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -325,11 +364,15 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
 			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<_iTempdisplayTextFlag type="a">2</_iTempdisplayTextFlag>
-			<m_bIsBoxStyle type="a">0</m_bIsBoxStyle>
+			<frameset type="a">&lt;frameset rows=27%25,73%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">0</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
 			<AggregatesList type="e">
 				<value>GUID 28485c39-939d-436c-8dcc-ccb69261342f</value>
 				<value>GUID cd36a7ad-2bb5-4e82-b6e2-8b21145f54e5</value>
@@ -351,6 +394,44 @@
 		</CGICompartment>
 		<CGIAnnotation type="e">
 			<_id type="a">GUID 83f0cf8d-a6e4-44bc-bf42-8b8dc1a41104</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">EnableImageView</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">176</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -361,6 +442,7 @@
 			<m_pParent type="s">GUID 8ecb0c42-b4b6-4f3a-bda1-1b5f11bebea3</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">Generar CDP</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -376,7 +458,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.0774908 0 0 0.104396 40 198.687 </m_transform>
+			<m_transform type="a">0.149683 0 0 0.117888 53 357.344 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -394,11 +476,15 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
 			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<_iTempdisplayTextFlag type="a">2</_iTempdisplayTextFlag>
-			<m_bIsBoxStyle type="a">0</m_bIsBoxStyle>
+			<frameset type="a">&lt;frameset rows=32%25,68%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">0</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
 			<AggregatesList type="e">
 				<value>GUID 1156fb8e-fbc4-485c-8b15-65fa8f2bec86</value>
 				<value>GUID 46c0c139-9081-440f-9e02-0b8344b559fa</value>
@@ -420,6 +506,44 @@
 		</CGICompartment>
 		<CGIAnnotation type="e">
 			<_id type="a">GUID e109ccaa-a8c3-4c27-805b-b5d91f32a753</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">EnableImageView</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">176</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -430,6 +554,7 @@
 			<m_pParent type="s">GUID 8ecb0c42-b4b6-4f3a-bda1-1b5f11bebea3</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">Notificar Pedido Pagado</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -445,7 +570,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.0774908 0 0 0.104396 40 39.6868 </m_transform>
+			<m_transform type="a">0.149683 0 0 0.117888 54 193.003 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -463,11 +588,15 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
 			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<_iTempdisplayTextFlag type="a">2</_iTempdisplayTextFlag>
-			<m_bIsBoxStyle type="a">0</m_bIsBoxStyle>
+			<frameset type="a">&lt;frameset rows=23%25,77%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">0</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
 			<AggregatesList type="e">
 				<value>GUID eb556a7e-7b52-4e3b-9fa3-f87d770091a0</value>
 				<value>GUID 7a11ac5e-77e4-4952-ba9a-0e4344138abb</value>
@@ -489,6 +618,44 @@
 		</CGICompartment>
 		<CGIAnnotation type="e">
 			<_id type="a">GUID 073f408c-7603-4604-9f54-240463b5d506</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">EnableImageView</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">176</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -499,6 +666,7 @@
 			<m_pParent type="s">GUID 8ecb0c42-b4b6-4f3a-bda1-1b5f11bebea3</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">Generar Pedido</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -514,7 +682,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.0774908 0 0 0.104396 115 357.687 </m_transform>
+			<m_transform type="a">0.150607 0 0 0.117187 52.871 39.6805 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -532,11 +700,15 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
 			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<_iTempdisplayTextFlag type="a">2</_iTempdisplayTextFlag>
-			<m_bIsBoxStyle type="a">0</m_bIsBoxStyle>
+			<frameset type="a">&lt;frameset rows=26%25,74%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">0</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
 			<AggregatesList type="e">
 				<value>GUID 22107bfb-8423-4590-a19c-fbde390dfadd</value>
 				<value>GUID 24b19476-bf47-421d-a2b1-267778025cc0</value>
@@ -558,6 +730,44 @@
 		</CGICompartment>
 		<CGIAnnotation type="e">
 			<_id type="a">GUID 50411eac-f4b6-4e9f-b5d2-9c2e05640497</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">EnableImageView</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">176</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -568,6 +778,7 @@
 			<m_pParent type="s">GUID 8ecb0c42-b4b6-4f3a-bda1-1b5f11bebea3</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
+					<m_str type="a">Consultar Pedidos Pagados</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -583,7 +794,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.0774908 0 0 0.104396 190 198.687 </m_transform>
+			<m_transform type="a">0.149683 0 0 0.117888 331.744 193.344 </m_transform>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -601,11 +812,15 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
 			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<_iTempdisplayTextFlag type="a">2</_iTempdisplayTextFlag>
-			<m_bIsBoxStyle type="a">0</m_bIsBoxStyle>
+			<frameset type="a">&lt;frameset rows=29%25,71%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">0</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
 			<AggregatesList type="e">
 				<value>GUID 8ecc19e7-602f-4fba-8f53-84183079761a</value>
 				<value>GUID bd73a570-29ba-4943-902b-f68e99f24543</value>
