@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 8801dfab-4529-4e7b-badb-54b9e39b18a3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PaqueteRequerimientos</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:39:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:39:53</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<weakCGTime type="a">3.2.2021::1:39:53</weakCGTime>
+			<strongCGTime type="a">3.2.2021::1:32:53</strongCGTime>
+			<_defaultComposite type="s">GUID 7a1431f6-6a9c-4b44-96b3-7ea5dc4995fc</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID b1aaa25b-c333-4a1b-ab74-37c958b1cc41</value>
+				<value>GUID 31e410fc-25fd-4a79-8e23-ede42c948041</value>
+				<value>GUID 573822f9-6f14-4f92-84c0-6c4fb392a8e8</value>
+				<value>GUID b5ccbc4c-7d38-4dd9-a854-241d3c85b8d2</value>
+				<value>GUID 53bdbce5-9de3-484d-9aa5-28632ed587c9</value>
+				<value>GUID 7a1431f6-6a9c-4b44-96b3-7ea5dc4995fc</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID b1aaa25b-c333-4a1b-ab74-37c958b1cc41</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Generar Pedido</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:0</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir a la emprendedora generar su pedido\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF001</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 31e410fc-25fd-4a79-8e23-ede42c948041</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Pagar Pedido</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:34:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:34:38</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir a la emprendedora pagar su pedido\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF002</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 573822f9-6f14-4f92-84c0-6c4fb392a8e8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Notificar Pedido Pagado</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:35:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:35:56</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe notificar a asesora de ventas que hay un pedido pagado\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF003</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b5ccbc4c-7d38-4dd9-a854-241d3c85b8d2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Consultar Pedidos Pagados</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:36:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:36:34</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir a la asesora de ventas consultar pedidos pagados\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF004</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 53bdbce5-9de3-484d-9aa5-28632ed587c9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Generar CDP</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::1:39:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:39:53</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 El sistema debe permitir a la asesora de ventas generar CDP\par%0D
+}%0D
+</_body>
+			<reqID type="a">RF005</reqID>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 7a1431f6-6a9c-4b44-96b3-7ea5dc4995fc</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

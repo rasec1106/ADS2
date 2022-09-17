@@ -44,9 +44,9 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Proyecto_ADS2</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::23:59:52</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::23:59:52</_modifiedTime>
-			<_lastID type="a">3</_lastID>
+			<_modifiedTimeWeak type="a">3.2.2021::1:32:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::1:32:47</_modifiedTime>
+			<_lastID type="a">4</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<size type="a">16</size>
@@ -127,6 +127,7 @@
 				<value>GUID f32cc90c-34ed-4330-b55c-197516116349</value>
 				<value>GUID ff611c34-3e07-4202-acfc-046403519288</value>
 				<value>GUID d0e4586b-7e5e-4bbe-b96a-7c518650fe44</value>
+				<value>GUID 8801dfab-4529-4e7b-badb-54b9e39b18a3</value>
 				<value>GUID 2f538c30-0033-4178-aa9b-a78f84f0a480</value>
 				<value>GUID bd175526-abf2-4924-a21a-df876aa70de8</value>
 				<value>GUID de1e1fd0-6383-425e-b5a7-3e85602c341f</value>
@@ -171,6 +172,10 @@
 		<ISubsystem type="e">
 			<fileName type="a">MCU</fileName>
 			<_id type="a">GUID d0e4586b-7e5e-4bbe-b96a-7c518650fe44</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">PaqueteRequerimientos</fileName>
+			<_id type="a">GUID 8801dfab-4529-4e7b-badb-54b9e39b18a3</_id>
 		</ISubsystem>
 		<IStructureDiagram type="e">
 			<_id type="a">GUID 2f538c30-0033-4178-aa9b-a78f84f0a480</_id>
