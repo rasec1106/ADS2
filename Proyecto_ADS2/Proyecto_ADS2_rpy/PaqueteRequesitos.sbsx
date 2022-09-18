@@ -11,10 +11,10 @@
 			<_id type="a">GUID 8801dfab-4529-4e7b-badb-54b9e39b18a3</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">PaqueteRequesitos</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::2:7:40</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::2:7:40</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::2:16:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::2:16:16</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">3.2.2021::2:7:40</weakCGTime>
+			<weakCGTime type="a">3.2.2021::2:16:16</weakCGTime>
 			<strongCGTime type="a">3.2.2021::1:41:1</strongCGTime>
 			<_defaultComposite type="s">GUID 7a1431f6-6a9c-4b44-96b3-7ea5dc4995fc</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -67,8 +67,8 @@
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Generar Pedido</_hname>
 					<_hid type="a">GUID f56287a5-c5e9-4199-8e25-5fe9fee603b8</_hid>
 				</INObjectHandle>
@@ -118,8 +118,8 @@
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Pagar Pedido</_hname>
 					<_hid type="a">GUID 88587896-81e9-4d5e-b794-90f4a5df1982</_hid>
 				</INObjectHandle>
@@ -169,8 +169,8 @@
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Consultar Pedidos Pagados</_hname>
 					<_hid type="a">GUID 2343f92d-0683-4ce7-b5f5-324d0d36a947</_hid>
 				</INObjectHandle>
@@ -220,8 +220,8 @@
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Consultar Pedidos Pagados</_hname>
 					<_hid type="a">GUID 2343f92d-0683-4ce7-b5f5-324d0d36a947</_hid>
 				</INObjectHandle>
@@ -271,8 +271,8 @@
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Generar CDP</_hname>
 					<_hid type="a">GUID 3ee00e86-0f90-4119-9f0a-aa1758d9d7b3</_hid>
 				</INObjectHandle>
@@ -474,8 +474,8 @@
 			</_properties>
 			<_name type="a">Diagrama de Requisitos vs Casos de Uso</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::2:8:43</_modifiedTime>
-			<_lastModifiedTime type="a">3.2.2021::2:8:43</_lastModifiedTime>
+			<_modifiedTime type="a">3.2.2021::2:16:16</_modifiedTime>
+			<_lastModifiedTime type="a">3.2.2021::2:16:16</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1173,8 +1173,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Consultar Pedidos Pagados</_hname>
 					<_hid type="a">GUID 2343f92d-0683-4ce7-b5f5-324d0d36a947</_hid>
 				</IHandle>
@@ -1226,8 +1226,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Generar CDP</_hname>
 					<_hid type="a">GUID 3ee00e86-0f90-4119-9f0a-aa1758d9d7b3</_hid>
 				</IHandle>
@@ -1279,8 +1279,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Generar Pedido</_hname>
 					<_hid type="a">GUID f56287a5-c5e9-4199-8e25-5fe9fee603b8</_hid>
 				</IHandle>
@@ -1332,8 +1332,8 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hfilename type="a">.\VentaProductos.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::VentaProductos</_hsubsystem>
 					<_hname type="a">Pagar Pedido</_hname>
 					<_hid type="a">GUID 88587896-81e9-4d5e-b794-90f4a5df1982</_hid>
 				</IHandle>
