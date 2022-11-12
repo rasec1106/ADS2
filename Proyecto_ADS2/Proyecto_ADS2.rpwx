@@ -27,25 +27,25 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">130</m_nLeft>
-								<m_nTop type="a">130</m_nTop>
-								<m_nRight type="a">1043</m_nRight>
-								<m_nBottom type="a">525</m_nBottom>
+								<m_nLeft type="a">26</m_nLeft>
+								<m_nTop type="a">26</m_nTop>
+								<m_nRight type="a">939</m_nRight>
+								<m_nBottom type="a">421</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_ADS2_rpy\DesignModel.sbsx</_hfilename>
-								<_hsubsystem type="a">DesignModel</_hsubsystem>
-								<_hname type="a">Capas</_hname>
-								<_hid type="a">GUID 543baf0e-77ee-4412-b545-3fa59bf260bf</_hid>
+								<_hfilename type="a">.\Proyecto_ADS2_rpy\Controladora.sbsx</_hfilename>
+								<_hsubsystem type="a">DesignModel::Controladora</_hsubsystem>
+								<_hname type="a">Diagrama Objetos Controladora</_hname>
+								<_hid type="a">GUID 8b789643-e0ed-4603-b2a7-86ffd0595346</_hid>
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">876 335 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -59,23 +59,25 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">130</m_nLeft>
-								<m_nTop type="a">130</m_nTop>
-								<m_nRight type="a">1013</m_nRight>
-								<m_nBottom type="a">623</m_nBottom>
+								<m_nLeft type="a">78</m_nLeft>
+								<m_nTop type="a">78</m_nTop>
+								<m_nRight type="a">991</m_nRight>
+								<m_nBottom type="a">473</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hname type="a">Diagrama de Estructura de Proyecto</_hname>
-								<_hid type="a">GUID bd175526-abf2-4924-a21a-df876aa70de8</_hid>
+								<_hfilename type="a">.\Proyecto_ADS2_rpy\DesignModel.sbsx</_hfilename>
+								<_hsubsystem type="a">DesignModel</_hsubsystem>
+								<_hname type="a">Diagrama de Calse de Dise%F1o CU Ventas</_hname>
+								<_hid type="a">GUID fd27e4ab-ca4a-44d0-893b-22a24a1e9ab0</_hid>
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">1074 556 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -89,24 +91,24 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">182</m_nLeft>
-								<m_nTop type="a">182</m_nTop>
-								<m_nRight type="a">1069</m_nRight>
-								<m_nBottom type="a">656</m_nBottom>
+								<m_nLeft type="a">52</m_nLeft>
+								<m_nTop type="a">52</m_nTop>
+								<m_nRight type="a">965</m_nRight>
+								<m_nBottom type="a">447</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IUCDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_ADS2_rpy\MCU.sbsx</_hfilename>
-								<_hsubsystem type="a">MCU</_hsubsystem>
-								<_hname type="a">Diagrama General de Casos de Uso</_hname>
-								<_hid type="a">GUID 318c9d96-32ac-4f41-b4e1-80858621c3eb</_hid>
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_ADS2_rpy\Negocio.sbsx</_hfilename>
+								<_hsubsystem type="a">DesignModel::Negocio</_hsubsystem>
+								<_hname type="a">Diagrama de Objetos de Negocio</_hname>
+								<_hid type="a">GUID 77ca2b71-0e68-4027-9102-e013ab1a5a05</_hid>
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1010 492 </_DownRight>
+						<_DownRight type="a">876 335 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -121,25 +123,25 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">156</m_nLeft>
-								<m_nTop type="a">156</m_nTop>
-								<m_nRight type="a">1043</m_nRight>
-								<m_nBottom type="a">630</m_nBottom>
+								<m_nLeft type="a">130</m_nLeft>
+								<m_nTop type="a">130</m_nTop>
+								<m_nRight type="a">1039</m_nRight>
+								<m_nBottom type="a">544</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_ADS2_rpy\ModeloAnalisis.sbsx</_hfilename>
-								<_hsubsystem type="a">ModeloAnalisis</_hsubsystem>
-								<_hname type="a">Arquitectura de Analisis</_hname>
-								<_hid type="a">GUID 46926a7c-6047-461c-9a47-39c84948c583</_hid>
+								<_hfilename type="a">.\Proyecto_ADS2_rpy\Presentacion.sbsx</_hfilename>
+								<_hsubsystem type="a">DesignModel::Presentacion</_hsubsystem>
+								<_hname type="a">Diagrama Objetos de Presentacion</_hname>
+								<_hid type="a">GUID 3ba6b844-4d84-4237-a284-ed0373ef3c95</_hid>
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">850 414 </_DownRight>
-						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<_DownRight type="a">872 354 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
